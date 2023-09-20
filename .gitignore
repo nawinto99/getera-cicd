@@ -35,3 +35,7 @@ terraform.rc
 
 # Remove .DS_Store
 .DS_Store
+
+cases
+
+.terraform.lock.hcl
